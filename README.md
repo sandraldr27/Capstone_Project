@@ -3,7 +3,7 @@
 <h2> Project Type:</h2> 
 
 <ul>
-  <li>Analysis of the marketing campaign for the company DH Marketing Consultants(Fictitious Company).</li>
+  <li>Analysis of the marketing campaign for the company DH Marketing Consultants (Fictitious Company).</li>
 </ul>
 
 <h2>Project structure:</h2> 
