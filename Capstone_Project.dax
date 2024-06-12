@@ -1,0 +1,20 @@
+﻿EVALUATE
+SUMMARIZECOLUMNS(
+    "Acceptance Rate", [Acceptance Rate],
+    "Acceptance Rate by Age Group", [Acceptance Rate by Age Group],
+    "Average Income per Customer", [Average Income per Customer],
+    "Average Revenue per Customer", [Average Revenue per Customer],
+    "Customer Count", [Customer Count],
+    "Income Ratio", [Income Ratio],
+    "Number of Clients", [Number of Clients],
+    "Purchase Frequency", [Purchase Frequency],
+    "Total Accepted by Age Group", [Total Accepted by Age Group],
+    "Total Accepted Campaign 1", [Total Accepted Campaign 1],
+    "Total Accepted Campaign 2", [Total Accepted Campaign 2],
+    "Total Accepted Campaign 3", [Total Accepted Campaign 3],
+    "Total Accepted Campaign 4", [Total Accepted Campaign 4],
+    "Total Accepted Campaign 5", [Total Accepted Campaign 5],
+    "Total Accepted Campaigns", [Total Accepted Campaigns],
+    "Total Customers by Age Group", [Total Customers by Age Group],
+    "Total Purchases", [Total Purchases]
+)
