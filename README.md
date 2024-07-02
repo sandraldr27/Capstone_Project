@@ -8,7 +8,7 @@
 
 <h2>Project structure:</h2> 
     <ul>
-        <li>Sheet zero with annotations.</li>
+        <li>Sheet zero with annotations and general explanation of the data structure and the calculations performed.</li>
         <li>Sheet No. 1 with an overview of the data Sheet.</li>
         <li>Sheet No. 2 with the campaign analysis data Sheet.</li>
         <li>Sheet No. 3 with the product analysis data.</li>
